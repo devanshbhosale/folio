@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Folio</string>
+    <string name="tagline">Every document. One reader.</string>
+
+    <string name="tab_recents">Recents</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="tab_settings">Settings</string>
+
+    <string name="cd_open_file">Open a file</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_share">Share</string>
+    <string name="cd_favorite">Favorite</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_more">More options</string>
+
+    <string name="empty_recents_title">No files yet</string>
+    <string name="empty_recents_body">Tap the + button to open your first document.</string>
+
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_system">System default</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_reader_mode">Reader mode</string>
+    <string name="settings_reader_mode_body">Serif font, wider margins, sepia paper. For long reads.</string>
+    <string name="settings_clear_recents">Clear recents</string>
+    <string name="settings_about">About Folio</string>
+    <string name="settings_about_body">Folio is a read-only document viewer. Offline. Ad-free. Your files never leave your device.</string>
+    <string name="settings_version">Version %1$s</string>
+
+    <string name="viewer_unsupported">Sorry, this file type isn\'t supported yet.</string>
+    <string name="viewer_error_open">Couldn\'t open this file.</string>
+    <string name="viewer_loading">Loading document…</string>
+    <string name="viewer_page_of">%1$d / %2$d</string>
+
+    <string name="sheet_pick">Choose file</string>
+
+    <string name="format_pdf">PDF</string>
+    <string name="format_word">Word</string>
+    <string name="format_excel">Excel</string>
+    <string name="format_ppt">Slides</string>
+    <string name="format_text">Text</string>
+    <string name="format_csv">CSV</string>
+    <string name="format_rtf">RTF</string>
+    <string name="format_odt">ODT</string>
+    <string name="format_numbers">Numbers</string>
+    <string name="format_pages">Pages</string>
+</resources>

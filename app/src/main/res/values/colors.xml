@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Folio brand palette -->
+    <color name="ink_indigo">#3B4BE0</color>
+    <color name="ink_indigo_dark">#1F2AAB</color>
+    <color name="warm_sand">#F5EFE4</color>
+    <color name="slate_ink">#12141C</color>
+    <color name="slate_ink_2">#1A1D28</color>
+    <color name="amber_highlight">#FFB547</color>
+    <color name="success_green">#2E9E6B</color>
+    <color name="error_red">#D64545</color>
+</resources>
